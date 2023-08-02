@@ -1,3 +1,5 @@
+package Seminar1;
+
 class Answer1 {
     public static void arrayOutOfBoundsException() {
         // Напишите свое решение ниже
