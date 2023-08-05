@@ -12,3 +12,7 @@
 [Задание 2](Seminar2/Task_2_2.java)  
 [Задание 3](Seminar2/Task_2_3.java)  
 [Задание 4](Seminar2/Task_2_4.java)  
+
+**Урок 3. Продвинутая работа с исключениями в Java**
+
+[Задание](Seminar3/)
